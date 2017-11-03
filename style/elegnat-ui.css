@@ -1,0 +1,14 @@
+.line {
+	display: inline-block;
+	width: 90px;
+	border-bottom: 2px solid;
+}
+
+	
+.line--black {
+	border-color: #222222;
+}
+
+.line--white {
+	border-color: #fff;
+}
