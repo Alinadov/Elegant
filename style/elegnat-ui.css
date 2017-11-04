@@ -12,3 +12,35 @@
 .line--white {
 	border-color: #fff;
 }
+
+
+.elegant-btn {
+	display: inline-block;
+	height: 60px;
+
+	border: 1px solid;
+
+	font-size: 24px;
+	font-weight: 300;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
+
+	padding: 18px 25px;
+
+	color: #222222;
+
+	transition: all .3s ease;
+}
+
+.elegant-btn:hover {
+	background-color: #222222;
+	color: #fff;
+	border: 1px solid #222222;
+}
+
+.elegant-btn--more {
+	min-width: 272px;
+	margin-bottom: 80px;
+}
+
