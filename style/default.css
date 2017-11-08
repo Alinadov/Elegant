@@ -1,6 +1,3 @@
-
-
-
 * {
 	margin: 0;
 	padding: 0;
@@ -354,10 +351,11 @@ h1, h2, h3, p {
 	-webkit-background-size: cover;
 	background-size: cover;
 	background-image: url(../img/footer.png);
-
 	text-align: center;
-	padding-top: 120px;
+}
 
+.footer > .container {
+		padding-top: 120px;
 }
 
 .footer__title {
